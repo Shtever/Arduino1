@@ -1,3 +1,10 @@
+
+
+
+// DO NOT USE VS CODE TO MAKE CHANGES TO THIS CODE//
+// CODE SHOULD BE PASTED INTO ARDUINO SKETCHPAD, THEN UPLOADED TO ARDUINO BOARD//
+
+
 int LED1 = 10;                        // HERO board pin 10
 int LED2 = 11;                        // HERO board pin 11
 int LED3 = 12;                        // HERO board pin 12
